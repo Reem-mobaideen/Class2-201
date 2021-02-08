@@ -1,0 +1,14 @@
+
+body {
+    background-color: rgb(226, 196, 209);
+  }
+.header {
+    padding: 60px;
+    text-align: center;
+    color:crimson ;
+    font-size: 30px;
+  }
+  img {
+    float: right;
+  }
+  
